@@ -1,0 +1,18 @@
+High Speed / High STDDEV				High Speed / Low STDDEV
+059.csv									091.csv
+187.csv									126.csv
+278.csv									202.csv
+
+
+
+683.csv									623.csv
+
+
+Low Speed / High STDDEV					Low Speed / Low STDDEV
+029.csv									003.csv
+126.csv									173.csv
+287.csv									246.csv
+
+
+
+658.csv									612.csv
